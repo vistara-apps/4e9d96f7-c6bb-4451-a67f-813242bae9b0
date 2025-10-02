@@ -1,0 +1,14 @@
+{
+  "name": "Ripple Finance",
+  "description": "Ripple Finance is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://4e9d96f7-c6bb-4451-a67f-813242bae9b0.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Ripple Finance",
+      "description": "Ripple Finance is a Base Mini App built with Zara.",
+      "url": "https://4e9d96f7-c6bb-4451-a67f-813242bae9b0.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
